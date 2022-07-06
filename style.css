@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* outline: 1px solid red; */
 }
 
 body {
@@ -57,7 +56,6 @@ body {
     opacity: 0.7;
 }
 
-/* button */
 .button-56 {
     margin-top: 20px;
     align-items: center;
